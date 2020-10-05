@@ -1,0 +1,26 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Slack Bot that reads messages sent on slack ",
+  "main": "bin\\www",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bin\\www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedam1/slackbot.git"
+  },
+  "keywords": [
+    "Slack"
+  ],
+  "author": "Syed Abdul Quader - SMART5 Consulting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedam1/slackbot/issues"
+  },
+  "homepage": "https://github.com/syedam1/slackbot#readme"
+}
