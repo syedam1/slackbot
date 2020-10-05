@@ -4,6 +4,7 @@
   "description": "Slack Bot that reads messages sent on slack ",
   "main": "bin\\www",
   "dependencies": {
+    "@slack/events-api": "^2.3.4",
     "request": "^2.88.2"
   },
   "devDependencies": {},
